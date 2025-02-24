@@ -27,5 +27,6 @@ This repository contains a Jupyter Notebook analyzing Amazon sales data. The not
 
 ### Contact
 
+* I am a data analyst passionate about transforming data into actionable insights.  This project demonstrates my skills in data visualization and my ability to communicate complex information through interactive dashboards.  Connect with me on [LinkedIn](https://www.linkedin.com/in/mehul-patil-05687b1b7/).
 
 For more information or questions, feel free to reach out (mehulpatil1000@gmail.com).
